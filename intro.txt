@@ -1,2 +1,2 @@
-Hello, Git and GitHub!
+Hello from conflicting branch!
 This is a new line added in the feature branch.
